@@ -16,6 +16,8 @@ Routes,
 Route
 } from "react-router-dom";
 
+  <BrowserRouter basename="/my-app"></BrowserRouter>
+
 
 function App() {
  const [mode, setMode] = useState('light');
