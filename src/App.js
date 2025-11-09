@@ -16,7 +16,7 @@ Routes,
 Route
 } from "react-router-dom";
 
-  <BrowserRouter basename="/my-app"></BrowserRouter>
+  // <BrowserRouter basename="/my-app"></BrowserRouter>
 
 
 function App() {
